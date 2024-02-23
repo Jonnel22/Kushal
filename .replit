@@ -1,0 +1,3 @@
+hidden = ["package-lock.json", "package.json","Kushal","Kushal.js"]
+language = "bash"
+run = "npm start"

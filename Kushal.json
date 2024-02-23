@@ -1,0 +1,86 @@
+{
+  "language": "en",
+  "BOTNAME": "kylle",
+  "note": "make sure that the bot name is all lowercase",
+  "PREFIX": "$",
+  "ADMINBOT": [
+    "61556125234351"
+  ],
+  "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 0,
+  "DASHBOARD": false,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "version": "4.0.0",
+  "DEL_FUNCTION": true,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+  },
+  "DATABASE": {
+    "sqlite": {
+      "storage": "datasqlite/Kushal.sqlite"
+    }
+  },
+  "APPSTATEPATH": "../../Kushalstate.json",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "log": {
+    "enable": true
+  },
+  "logs": {
+    "enable": true
+  },
+  "leave": {
+    "status": true,
+    "number": 150
+  }
+}
